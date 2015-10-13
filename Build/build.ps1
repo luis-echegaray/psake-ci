@@ -8,4 +8,7 @@ $psakeModule = (Get-ChildItem ("..\packages\psake.4.4.2\tools\psake.psm1")).Full
 
 Import-Module $psakeModule
 
-Invoke-psake -buildFile .\default.ps1 -taskList Test -properties @{ "testMessage"="What am I doing?"}
+Invoke-psake -buildFile .\default.ps1 `
+			 -taskList Test `
+			 -properties @{"testMessage"="What am I doing?"} `
+			 -parameters @{"solutionFile" = "..\psake.sln"}

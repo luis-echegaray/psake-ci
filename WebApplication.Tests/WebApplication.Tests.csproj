@@ -96,6 +96,15 @@
   <ItemGroup>
     <Content Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApplication\WebApplication.csproj">
+      <Project>{342F5758-15BB-4A1F-9748-CC803198F921}</Project>
+      <Name>WebApplication</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
