@@ -1,0 +1,4 @@
+C:\Users\mrlui\projects\psake-ci\Build\bin\Debug\Build.dll
+C:\Users\mrlui\projects\psake-ci\Build\bin\Debug\Build.pdb
+C:\Users\mrlui\projects\psake-ci\Build\obj\Debug\Build.dll
+C:\Users\mrlui\projects\psake-ci\Build\obj\Debug\Build.pdb

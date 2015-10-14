@@ -1,0 +1,5 @@
+C:\Users\mrlui\projects\psake-ci\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\mrlui\projects\psake-ci\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\mrlui\projects\psake-ci\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\mrlui\projects\psake-ci\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\mrlui\projects\psake-ci\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
