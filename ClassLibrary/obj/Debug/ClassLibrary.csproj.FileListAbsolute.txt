@@ -1,4 +1,0 @@
-C:\Users\mrlui\projects\psake-ci\ClassLibrary\bin\Debug\ClassLibrary.dll
-C:\Users\mrlui\projects\psake-ci\ClassLibrary\bin\Debug\ClassLibrary.pdb
-C:\Users\mrlui\projects\psake-ci\ClassLibrary\obj\Debug\ClassLibrary.dll
-C:\Users\mrlui\projects\psake-ci\ClassLibrary\obj\Debug\ClassLibrary.pdb

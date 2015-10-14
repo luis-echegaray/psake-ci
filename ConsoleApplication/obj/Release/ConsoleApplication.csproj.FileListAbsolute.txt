@@ -1,5 +1,0 @@
-C:\Users\mrlui\projects\psake-ci\.build\temp\ConsoleApplication.exe.config
-C:\Users\mrlui\projects\psake-ci\.build\temp\ConsoleApplication.exe
-C:\Users\mrlui\projects\psake-ci\.build\temp\ConsoleApplication.pdb
-C:\Users\mrlui\projects\psake-ci\ConsoleApplication\obj\Release\ConsoleApplication.exe
-C:\Users\mrlui\projects\psake-ci\ConsoleApplication\obj\Release\ConsoleApplication.pdb

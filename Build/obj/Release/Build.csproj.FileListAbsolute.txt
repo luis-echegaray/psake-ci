@@ -1,5 +1,0 @@
-C:\Users\mrlui\projects\psake-ci\.build\temp\Build.dll
-C:\Users\mrlui\projects\psake-ci\.build\temp\Build.pdb
-C:\Users\mrlui\projects\psake-ci\Build\obj\Release\Build.csprojResolveAssemblyReference.cache
-C:\Users\mrlui\projects\psake-ci\Build\obj\Release\Build.dll
-C:\Users\mrlui\projects\psake-ci\Build\obj\Release\Build.pdb
