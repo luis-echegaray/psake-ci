@@ -44,7 +44,9 @@ task Compile `
 	-requiredVariables solutionFile, buildConfiguration, buildPlatform, temporaryOutputDirectory `
 {
 	Write-Host "Building solution $solutionFile"
-	msbuild $solutionFile "/p:Configuration=$buildConfiguration;Platform=$buildPlatform;OutDir=$temporaryOutputDirectory"
+	Exec {
+		msbuild $solutionFile "/p:Configuration=$buildConfiguration;Platform=$buildPlatform;OutDir=$temporaryOutputDirectory"
+	}
 }
 
 task Clean -description "Remove temporary files" {
