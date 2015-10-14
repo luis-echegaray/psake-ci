@@ -4,11 +4,11 @@
 Remove-Module [p]sake
 
 # find psake's path
-$psakeModule = (Get-ChildItem ("..\packages\psake.4.4.2\tools\psake.psm1")).FullName | Sort-Object $_ | select -Last 1
+$psakeModule = (Get-ChildItem (".\packages\psake.4.4.2\tools\psake.psm1")).FullName | Sort-Object $_ | select -Last 1
 
 Import-Module $psakeModule
 
-Invoke-psake -buildFile .\default.ps1 `
+Invoke-psake -buildFile .\Build\default.ps1 `
 			 -taskList Test `
 			 -framework 4.5.2 `
 			 -properties @{
